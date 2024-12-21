@@ -80,3 +80,5 @@ endmodule
 ![Screenshot 2024-12-14 093828](https://github.com/user-attachments/assets/a16c2dab-36f4-4b48-af81-2571a6dcc953)
 
 **RESULTS**
+Thus,the code executed successfully.
+
